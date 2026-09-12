@@ -1,0 +1,9 @@
+RESUME ID: R081
+NAME: Om Sharma
+EMAIL: om.sharma81@example.com
+EDUCATION: B.Tech Computer Science and Engineering
+EXPERIENCE: 4 years
+ROLE: Software Engineer
+SKILLS: Java, Python, SQL, Data Structures, Git
+SUMMARY: Om Sharma is a software engineer with 4 years of experience. Strong background in Java backend development, Python scripting and SQL database systems. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to software engineer, with practical use of Java, problem solving and software development.

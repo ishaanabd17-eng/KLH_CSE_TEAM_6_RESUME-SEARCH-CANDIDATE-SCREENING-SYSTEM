@@ -1,0 +1,9 @@
+RESUME ID: R022
+NAME: Karan Reddy
+EMAIL: karan.reddy22@example.com
+EDUCATION: B.Tech Information Technology
+EXPERIENCE: 1 years
+ROLE: Data Scientist
+SKILLS: Python, Machine Learning, SQL, Pandas, NumPy
+SUMMARY: Karan Reddy is a data scientist with 1 years of experience. Strong background in Python data analysis, machine learning models and statistical reporting. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to data scientist, with practical use of Python, problem solving and software development.

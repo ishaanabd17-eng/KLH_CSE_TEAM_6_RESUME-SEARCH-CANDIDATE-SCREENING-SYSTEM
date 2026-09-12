@@ -1,0 +1,9 @@
+RESUME ID: R020
+NAME: Isha Pillai
+EMAIL: isha.pillai20@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 6 years
+ROLE: Mobile Developer
+SKILLS: Java, Kotlin, Firebase, SQL, Git
+SUMMARY: Isha Pillai is a mobile developer with 6 years of experience. Strong background in mobile application development using Kotlin, Java, Firebase and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to mobile developer, with practical use of Java, problem solving and software development.

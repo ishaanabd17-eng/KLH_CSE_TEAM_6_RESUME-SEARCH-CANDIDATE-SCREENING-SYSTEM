@@ -1,0 +1,9 @@
+RESUME ID: R006
+NAME: Ananya Kapoor
+EMAIL: ananya.kapoor6@example.com
+EDUCATION: B.Tech Information Technology
+EXPERIENCE: 6 years
+ROLE: Full Stack Developer
+SKILLS: JavaScript, React, Node.js, SQL, Git
+SUMMARY: Ananya Kapoor is a full stack developer with 6 years of experience. Strong background in full stack web applications using React, Node.js and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to full stack developer, with practical use of JavaScript, problem solving and software development.

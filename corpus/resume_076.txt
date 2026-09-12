@@ -1,0 +1,9 @@
+RESUME ID: R076
+NAME: Mahek Desai
+EMAIL: mahek.desai76@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 6 years
+ROLE: Embedded Engineer
+SKILLS: C, C++, IoT, Microcontrollers, Git
+SUMMARY: Mahek Desai is a embedded engineer with 6 years of experience. Strong background in embedded systems, microcontrollers, C/C++ and IoT devices. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to embedded engineer, with practical use of C, problem solving and software development.

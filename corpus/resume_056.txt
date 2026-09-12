@@ -1,0 +1,9 @@
+RESUME ID: R056
+NAME: Varun Desai
+EMAIL: varun.desai56@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 7 years
+ROLE: Embedded Engineer
+SKILLS: C, C++, IoT, Microcontrollers, Git
+SUMMARY: Varun Desai is a embedded engineer with 7 years of experience. Strong background in embedded systems, microcontrollers, C/C++ and IoT devices. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to embedded engineer, with practical use of C, problem solving and software development.

@@ -1,0 +1,9 @@
+RESUME ID: R004
+NAME: Akash Nair
+EMAIL: akash.nair4@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 4 years
+ROLE: Machine Learning Engineer
+SKILLS: Python, Machine Learning, TensorFlow, NumPy, Git
+SUMMARY: Akash Nair is a machine learning engineer with 4 years of experience. Strong background in Python machine learning pipelines, model training and TensorFlow. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to machine learning engineer, with practical use of Python, problem solving and software development.

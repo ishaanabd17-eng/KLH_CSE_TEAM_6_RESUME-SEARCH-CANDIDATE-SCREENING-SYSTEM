@@ -1,0 +1,9 @@
+RESUME ID: R078
+NAME: Maya Mishra
+EMAIL: maya.mishra78@example.com
+EDUCATION: B.Tech Information Technology
+EXPERIENCE: 1 years
+ROLE: Cloud Data Engineer
+SKILLS: Python, SQL, AWS, Spark, Git
+SUMMARY: Maya Mishra is a cloud data engineer with 1 years of experience. Strong background in data engineering pipelines, SQL, Python, Spark and AWS. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to cloud data engineer, with practical use of Python, problem solving and software development.

@@ -1,0 +1,9 @@
+RESUME ID: R012
+NAME: Chetan Khan
+EMAIL: chetan.khan12@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 5 years
+ROLE: AI Engineer
+SKILLS: Python, Machine Learning, Deep Learning, PyTorch, NumPy
+SUMMARY: Chetan Khan is a ai engineer with 5 years of experience. Strong background in AI systems, deep learning models, PyTorch and Python. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to ai engineer, with practical use of Python, problem solving and software development.

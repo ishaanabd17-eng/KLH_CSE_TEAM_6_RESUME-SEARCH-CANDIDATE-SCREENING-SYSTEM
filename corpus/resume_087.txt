@@ -1,0 +1,9 @@
+RESUME ID: R087
+NAME: Rajesh Patel
+EMAIL: rajesh.patel87@example.com
+EDUCATION: B.E. Computer Engineering
+EXPERIENCE: 3 years
+ROLE: Data Analyst
+SKILLS: Python, SQL, Excel, Power BI, Pandas
+SUMMARY: Rajesh Patel is a data analyst with 3 years of experience. Strong background in Python analytics, SQL queries, dashboards and business reporting. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to data analyst, with practical use of Python, problem solving and software development.

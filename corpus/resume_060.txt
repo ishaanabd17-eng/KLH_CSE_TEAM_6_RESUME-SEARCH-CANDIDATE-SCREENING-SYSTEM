@@ -1,0 +1,9 @@
+RESUME ID: R060
+NAME: Yash Pillai
+EMAIL: yash.pillai60@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 4 years
+ROLE: Mobile Developer
+SKILLS: Java, Kotlin, Firebase, SQL, Git
+SUMMARY: Yash Pillai is a mobile developer with 4 years of experience. Strong background in mobile application development using Kotlin, Java, Firebase and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to mobile developer, with practical use of Java, problem solving and software development.

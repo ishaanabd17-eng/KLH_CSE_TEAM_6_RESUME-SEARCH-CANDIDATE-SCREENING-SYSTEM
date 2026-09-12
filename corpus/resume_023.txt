@@ -1,0 +1,9 @@
+RESUME ID: R023
+NAME: Kavya Mehta
+EMAIL: kavya.mehta23@example.com
+EDUCATION: B.E. Computer Engineering
+EXPERIENCE: 2 years
+ROLE: Backend Developer
+SKILLS: Java, Spring Boot, SQL, REST API, Git
+SUMMARY: Kavya Mehta is a backend developer with 2 years of experience. Strong background in Java backend services, Spring Boot applications, REST APIs and databases. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to backend developer, with practical use of Java, problem solving and software development.

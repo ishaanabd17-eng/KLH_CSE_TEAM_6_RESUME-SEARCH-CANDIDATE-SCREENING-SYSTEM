@@ -1,0 +1,9 @@
+RESUME ID: R014
+NAME: Dev Malhotra
+EMAIL: dev.malhotra14@example.com
+EDUCATION: B.Tech Information Technology
+EXPERIENCE: 7 years
+ROLE: QA Engineer
+SKILLS: Java, Selenium, Python, SQL, Git
+SUMMARY: Dev Malhotra is a qa engineer with 7 years of experience. Strong background in automated testing with Selenium, Java, Python and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to qa engineer, with practical use of Java, problem solving and software development.

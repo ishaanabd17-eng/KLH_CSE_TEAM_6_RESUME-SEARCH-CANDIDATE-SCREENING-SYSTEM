@@ -1,0 +1,9 @@
+RESUME ID: R005
+NAME: Akshay Singh
+EMAIL: akshay.singh5@example.com
+EDUCATION: B.Tech Computer Science and Engineering
+EXPERIENCE: 5 years
+ROLE: Frontend Developer
+SKILLS: JavaScript, React, HTML, CSS, Git
+SUMMARY: Akshay Singh is a frontend developer with 5 years of experience. Strong background in React interfaces, JavaScript development, HTML and CSS. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to frontend developer, with practical use of JavaScript, problem solving and software development.

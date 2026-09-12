@@ -1,0 +1,9 @@
+RESUME ID: R045
+NAME: Sanjay Singh
+EMAIL: sanjay.singh45@example.com
+EDUCATION: B.Tech Computer Science and Engineering
+EXPERIENCE: 3 years
+ROLE: Frontend Developer
+SKILLS: JavaScript, React, HTML, CSS, Git
+SUMMARY: Sanjay Singh is a frontend developer with 3 years of experience. Strong background in React interfaces, JavaScript development, HTML and CSS. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to frontend developer, with practical use of JavaScript, problem solving and software development.

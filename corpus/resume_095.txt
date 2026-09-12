@@ -1,0 +1,9 @@
+RESUME ID: R095
+NAME: Swati Agarwal
+EMAIL: swati.agarwal95@example.com
+EDUCATION: B.E. Computer Engineering
+EXPERIENCE: 4 years
+ROLE: Systems Engineer
+SKILLS: C, C++, Linux, Networking, Git
+SUMMARY: Swati Agarwal is a systems engineer with 4 years of experience. Strong background in systems programming, Linux, networking and C/C++ development. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to systems engineer, with practical use of C, problem solving and software development.

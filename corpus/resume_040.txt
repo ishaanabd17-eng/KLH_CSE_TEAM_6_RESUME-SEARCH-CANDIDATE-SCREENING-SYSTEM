@@ -1,0 +1,9 @@
+RESUME ID: R040
+NAME: Rohan Pillai
+EMAIL: rohan.pillai40@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 5 years
+ROLE: Mobile Developer
+SKILLS: Java, Kotlin, Firebase, SQL, Git
+SUMMARY: Rohan Pillai is a mobile developer with 5 years of experience. Strong background in mobile application development using Kotlin, Java, Firebase and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to mobile developer, with practical use of Java, problem solving and software development.

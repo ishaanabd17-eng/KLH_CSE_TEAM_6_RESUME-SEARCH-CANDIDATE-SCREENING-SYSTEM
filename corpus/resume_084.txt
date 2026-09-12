@@ -1,0 +1,9 @@
+RESUME ID: R084
+NAME: Prateek Nair
+EMAIL: prateek.nair84@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 7 years
+ROLE: Machine Learning Engineer
+SKILLS: Python, Machine Learning, TensorFlow, NumPy, Git
+SUMMARY: Prateek Nair is a machine learning engineer with 7 years of experience. Strong background in Python machine learning pipelines, model training and TensorFlow. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to machine learning engineer, with practical use of Python, problem solving and software development.

@@ -1,0 +1,9 @@
+RESUME ID: R008
+NAME: Arnav Iyer
+EMAIL: arnav.iyer8@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 1 years
+ROLE: Cybersecurity Analyst
+SKILLS: Python, Linux, Networking, Cybersecurity, Git
+SUMMARY: Arnav Iyer is a cybersecurity analyst with 1 years of experience. Strong background in network security, Linux systems, Python automation and security analysis. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to cybersecurity analyst, with practical use of Python, problem solving and software development.

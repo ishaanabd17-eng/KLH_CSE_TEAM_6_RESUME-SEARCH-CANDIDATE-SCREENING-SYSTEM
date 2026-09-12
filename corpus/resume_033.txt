@@ -1,0 +1,9 @@
+RESUME ID: R033
+NAME: Nisha Joshi
+EMAIL: nisha.joshi33@example.com
+EDUCATION: B.Tech Computer Science and Engineering
+EXPERIENCE: 5 years
+ROLE: Database Developer
+SKILLS: SQL, PostgreSQL, MySQL, Python, Git
+SUMMARY: Nisha Joshi is a database developer with 5 years of experience. Strong background in relational database development, SQL optimization and Python automation. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to database developer, with practical use of SQL, problem solving and software development.

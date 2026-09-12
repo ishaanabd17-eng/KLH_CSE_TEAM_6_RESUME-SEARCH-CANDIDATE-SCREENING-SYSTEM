@@ -1,0 +1,9 @@
+RESUME ID: R074
+NAME: Komal Malhotra
+EMAIL: komal.malhotra74@example.com
+EDUCATION: B.Tech Information Technology
+EXPERIENCE: 4 years
+ROLE: QA Engineer
+SKILLS: Java, Selenium, Python, SQL, Git
+SUMMARY: Komal Malhotra is a qa engineer with 4 years of experience. Strong background in automated testing with Selenium, Java, Python and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to qa engineer, with practical use of Java, problem solving and software development.

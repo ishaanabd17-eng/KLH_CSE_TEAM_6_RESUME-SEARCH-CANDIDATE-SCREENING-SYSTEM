@@ -1,0 +1,9 @@
+RESUME ID: R072
+NAME: Jhanvi Khan
+EMAIL: jhanvi.khan72@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 2 years
+ROLE: AI Engineer
+SKILLS: Python, Machine Learning, Deep Learning, PyTorch, NumPy
+SUMMARY: Jhanvi Khan is a ai engineer with 2 years of experience. Strong background in AI systems, deep learning models, PyTorch and Python. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to ai engineer, with practical use of Python, problem solving and software development.

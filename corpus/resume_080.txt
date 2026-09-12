@@ -1,0 +1,9 @@
+RESUME ID: R080
+NAME: Navya Pillai
+EMAIL: navya.pillai80@example.com
+EDUCATION: M.Tech Computer Science
+EXPERIENCE: 3 years
+ROLE: Mobile Developer
+SKILLS: Java, Kotlin, Firebase, SQL, Git
+SUMMARY: Navya Pillai is a mobile developer with 3 years of experience. Strong background in mobile application development using Kotlin, Java, Firebase and SQL. Experienced in developing reliable software solutions, debugging applications, collaborating with teams and applying data structures and algorithms where appropriate.
+PROJECTS: Built academic and professional projects related to mobile developer, with practical use of Java, problem solving and software development.
