@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TalentLens — Candidate Intelligence</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="candidates.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <a class="brand" href="#" data-page="search"><span class="brand-mark">T</span><span>Talent<span class="brand-light">Lens</span></span></a>
+    <div class="side-label">WORKSPACE</div>
+    <nav class="nav-list">
+      <button class="nav-item active" data-page="search"><span class="nav-icon">⌕</span> Candidate search</button>
+      <button class="nav-item" data-page="database"><span class="nav-icon">▤</span> Resume database</button>
+      <button class="nav-item" data-page="insights"><span class="nav-icon">◉</span> Matching insights</button>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="status-dot"></div><span>Local screening workspace</span>
+      <div class="side-foot">TALENT INTELLIGENCE<br>DSA PROJECT · CO-ALIGNED</div>
+    </div>
+  </aside>
+  <main class="main-content">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">TALENT ACQUISITION / WORKSPACE</div>
+        <h1 id="page-title">Candidate screening</h1>
+        <p id="page-subtitle">Find the right people for your role, with transparent fit scores.</p>
+      </div>
+      <div class="top-status"><span class="live-dot"></span> Local screening workspace</div>
+    </header>
+    <section class="metric-grid" id="metrics">
+      <article class="metric-card"><div class="metric-label">Resume profiles</div><div class="metric-value" id="metric-profiles">1,000</div><div class="metric-foot">Loaded from TXT dataset</div></article>
+      <article class="metric-card"><div class="metric-label">Indexed skills</div><div class="metric-value" id="metric-skills">37</div><div class="metric-foot">Search-ready skill index</div></article>
+      <article class="metric-card"><div class="metric-label">Locations</div><div class="metric-value" id="metric-locations">12</div><div class="metric-foot">Candidate pool coverage</div></article>
+      <article class="metric-card"><div class="metric-label">Ranking signals</div><div class="metric-value">3</div><div class="metric-foot">Weighted fit model</div></article>
+    </section>
+
+    <section class="page-view" id="page-search">
+      <div class="search-layout">
+        <aside class="filter-card panel">
+          <div class="panel-heading"><h2>Search requirements</h2><p>Set criteria to filter and rank candidate profiles.</p></div>
+          <form id="search-form">
+            <label for="skills-input">Required skills</label>
+            <input id="skills-input" type="text" value="python, machine learning" placeholder="e.g. python, sql, react">
+            <div class="helper">Separate multiple skills with commas.</div>
+            <label for="location-input">Preferred location</label>
+            <select id="location-input"><option value="Any">Any location</option></select>
+            <label for="experience-input">Minimum experience <span id="experience-label">2 years</span></label>
+            <input id="experience-input" type="range" min="0" max="12" value="2">
+            <div class="range-scale"><span>0 years</span><span>12 years</span></div>
+            <button class="primary-btn" type="submit">Find matching candidates <span>↗</span></button>
+          </form>
+          <div class="weight-section">
+            <div class="section-kicker">SCORING WEIGHTS</div>
+            <div class="weight-row"><span>Skills match</span><strong>50%</strong></div><div class="weight-track"><span style="width:50%"></span></div>
+            <div class="weight-row"><span>Experience</span><strong>30%</strong></div><div class="weight-track teal"><span style="width:30%"></span></div>
+            <div class="weight-row"><span>Location</span><strong>20%</strong></div><div class="weight-track gold"><span style="width:20%"></span></div>
+            <p class="weight-note">Scores explain how closely a profile fits your selected criteria. Use them as decision support, not an automatic hiring decision.</p>
+          </div>
+        </aside>
+        <section class="results-section">
+          <div class="results-head"><div><h2>Ranked candidates</h2><p id="results-caption">Recommended profiles based on your requirements.</p></div><span class="result-count" id="result-count">— profiles</span></div>
+          <div id="results-list" class="candidate-list"></div>
+          <div id="empty-state" class="empty-state hidden"><div class="empty-icon">⌕</div><h3>No matching profiles</h3><p>Try fewer skills, reduce minimum experience, or choose Any location.</p></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="page-view hidden" id="page-database">
+      <div class="page-toolbar panel">
+        <div><h2>Resume database</h2><p>Browse the synthetic candidate pool and inspect each profile's skills.</p></div>
+        <input id="database-search" class="database-search" placeholder="Search name, skill, city, or education…">
+      </div>
+      <div class="table-panel panel">
+        <div class="table-scroll"><table><thead><tr><th>Candidate</th><th>Experience</th><th>Location</th><th>Education</th><th>Core skills</th><th></th></tr></thead><tbody id="database-body"></tbody></table></div>
+        <div class="table-footer"><span id="database-count">Showing candidates</span><div class="pagination"><button id="prev-page" class="ghost-btn">← Previous</button><button id="next-page" class="ghost-btn">Next →</button></div></div>
+      </div>
+    </section>
+
+    <section class="page-view hidden" id="page-insights">
+      <div class="insights-grid">
+        <article class="panel insight-card wide"><div class="section-kicker">MATCHING INTELLIGENCE</div><h2>How the ranking works</h2><p>TalentLens combines skill overlap, experience, and preferred location into one explainable fit score.</p>
+          <div class="score-formula"><div><span>50%</span><strong>Skills overlap</strong><small>Required skills found in profile</small></div><b>+</b><div><span>30%</span><strong>Experience</strong><small>Scaled against 12 years</small></div><b>+</b><div><span>20%</span><strong>Location</strong><small>Preferred city match</small></div></div>
+        </article>
+        <article class="panel insight-card"><div class="section-kicker">CANDIDATE POOL</div><h2>Experience distribution</h2><p class="muted">Profiles grouped by years of experience.</p><div id="experience-chart" class="bar-chart"></div></article>
+        <article class="panel insight-card"><div class="section-kicker">SKILL LANDSCAPE</div><h2>Most common skills</h2><p class="muted">Frequently represented skills across the dataset.</p><div id="skills-chart" class="skill-chart"></div></article>
+        <article class="panel insight-card wide"><div class="section-kicker">ALGORITHM TOOLKIT</div><h2>Data structures & algorithms in the project</h2><div class="algorithm-grid">
+          <div><span class="algo-icon">CO2</span><strong>String algorithms</strong><p>KMP, Z-function, Rabin–Karp rolling hash, suffix-array baseline, and edit distance.</p></div>
+          <div><span class="algo-icon">CO3</span><strong>Dynamic programming</strong><p>LCS, matrix-chain multiplication, edit distance, and bitmask DP for TSP.</p></div>
+          <div><span class="algo-icon">CO4</span><strong>Network flow</strong><p>Edmonds–Karp maximum flow demonstrates capacity-constrained assignment-style problems.</p></div>
+          <div><span class="algo-icon">CO5</span><strong>Approximation</strong><p>A 2-approximation vertex-cover routine and NP-completeness concepts for viva discussion.</p></div>
+          <div><span class="algo-icon">CO6</span><strong>Randomized algorithms</strong><p>Randomized QuickSort with an injectable random generator for repeatable demos.</p></div>
+          <div><span class="algo-icon">CO6</span><strong>Parallel primitives</strong><p>Parallel inclusive prefix-sum demonstration using Java parallel streams.</p></div>
+          <div><span class="algo-icon">CO1</span><strong>Algorithm selection</strong><p>Use the examples to discuss problem type, trade-offs, and complexity.</p></div>
+          <div><span class="algo-icon">CORE</span><strong>Search & ranking</strong><p>Indexed candidate records, weighted scoring, filtering, and deterministic ranking.</p></div>
+        </div><p class="course-note"><strong>Course-outcome connection:</strong> CO1–CO6 topics are represented by runnable algorithm demonstrations and the resume-screening use case. Use the exact handout wording in your report and be prepared to explain each implementation and its complexity.</p></article>
+      </div>
+    </section>
+    <footer class="footer"><span>TalentLens · Candidate intelligence prototype</span><span>Decision support • Synthetic data • Explainable scoring</span></footer>
+  </main>
+</div>
+<div class="modal-backdrop hidden" id="profile-modal"><div class="profile-modal panel"><button class="modal-close" id="modal-close" aria-label="Close">×</button><div id="modal-content"></div></div></div>
+</body>
+</html>
